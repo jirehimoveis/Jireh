@@ -1,2 +1,3 @@
-https://vitorgoncalve.github.io/jireh-imoveis/
+https://jirehimoveis.github.io/jireh/
+
 # jireh-imoveis
